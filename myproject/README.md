@@ -1,3 +1,5 @@
+
+# Todo List created using React --> Look into src folder for the code
 # Simple ToDO App using React
 
 # Getting Started with Create React App
